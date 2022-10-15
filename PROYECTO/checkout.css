@@ -1,0 +1,20 @@
+.contenedor_general {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contenedor_tickets {
+    width: 70%;
+    height: 100%;
+    padding: 2em;
+    border-radius: 2em;
+background-color: rgb(24, 91, 113);
+}
+
+.ticket_body {
+    color: white;
+    font-weight: 600;
+
+}

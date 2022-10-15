@@ -1,0 +1,12 @@
+.boton-pagar {
+    text-decoration: none;
+    color: white;
+}
+
+.boton-pagar:hover {
+    color: white;
+}
+
+.boton-pagar:target {
+    color: white;
+}

@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 1500,
+      "id": 1,
+      "title": "Megadeth",
+      "thumbnailUrl": "imagenes/ME2.jpg"
+    },
+    {
+      "precio": 2300,
+      "id": 2,
+      "title": "Metallica",
+      "thumbnailUrl": "imagenes/Me.jpg"
+    },
+    {
+      "precio": 900,
+      "id": 3,
+      "title": "DJ Tiesto",
+      "thumbnailUrl": "imagenes/tiesto.jpg"
+    },
+    {
+      "precio": 900,
+      "id": 4,
+      "title": "Panteon rococo",
+      "thumbnailUrl": "imagenes/pant.jpg"
+    },
+    {
+      "precio": 1800,
+      "id": 5,
+      "title": "Dua Lipa",
+      "thumbnailUrl": "imagenes/dua.jpg"
+    },
+    {
+      "precio": 1500,
+      "id": 6,
+      "title": "Korn",
+      "thumbnailUrl": "imagenes/korn.jpg"
+    }
+  ]
